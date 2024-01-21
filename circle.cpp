@@ -26,3 +26,4 @@ n.print(3);
 n.print(3.3);
 n.print(s);
 return 0;
+ }

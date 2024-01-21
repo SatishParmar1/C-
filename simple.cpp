@@ -7,6 +7,7 @@ public:
 sample(){
 age = 12;
 salary = 100;
+cout<<age<<salary;
 }
 };
 int main(){
